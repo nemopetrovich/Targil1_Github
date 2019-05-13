@@ -4,3 +4,10 @@
     background-color: aquamarine;
     border: 1px green;
 }
+
+.student-owner{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    border: 1px red;
+}
