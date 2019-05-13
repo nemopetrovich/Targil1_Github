@@ -2,12 +2,16 @@
     width: 150px;
     height: 150px;
     background-color: aquamarine;
-    border: 1px green;
+    border: 1px solid green;
+    margin: 5px;
+    float: right;
 }
 
 .student-owner{
     width: 150px;
     height: 150px;
-    background-color: aquamarine;
-    border: 1px red;
+    background-color: rgb(146, 127, 255);
+    border: 1px solid red;
+    margin: 5px;
+    float: right;
 }
